@@ -1,0 +1,15 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "2026 hexschool 預習任務 todolist RESTful API kata",
+  "license": "ISC",
+  "author": "jiamori",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "uuid": "^14.0.0"
+  }
+}
